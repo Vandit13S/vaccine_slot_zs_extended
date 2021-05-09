@@ -1,0 +1,1 @@
+worker: python temp2.py
